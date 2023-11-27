@@ -12,7 +12,7 @@ I am a bachelor's student at P.E.S Modern Shivajinagar,Pune. I am a Frontend dev
 
 - 👨‍💻 All of my projects are available at [surajsakhare.netlify.app](surajsakhare.netlify.app)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
