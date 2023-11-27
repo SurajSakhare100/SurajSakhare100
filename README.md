@@ -1,5 +1,5 @@
 # SurajSakhare100
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Suraj Sakhare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
