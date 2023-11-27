@@ -4,8 +4,8 @@
 
 I am a bachelor's student at P.E.S Modern Shivajinagar,Pune. I am a Frontend developer from India with a proven ability to deliver high-quality solutions. Currently working on My Projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsakhare100&label=Profile%20views&color=0e75b6&style=flat" alt="surajsakhare100" /> </p>
 <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsakhare100&label=Profile%20views&color=0e75b6&style=flat" alt="surajsakhare100" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce Project**
 
