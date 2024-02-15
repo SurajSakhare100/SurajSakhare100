@@ -12,8 +12,7 @@ I am a bachelor's student at P.E.S Modern Shivajinagar,Pune. I am a Frontend dev
 
 - 🌱 I’m currently learning **DSA C++**
 
-- 👨‍💻 All of my projects are available at [surajsakhare.netlify.app](surajsakhare.netlify.app)
-
+- 👨‍💻 All of my projects are available at https://surajsakhare.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
