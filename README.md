@@ -8,11 +8,11 @@ I am a bachelor's student at P.E.S Modern Shivajinagar,Pune. I am a Frontend dev
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsakhare100&label=Profile%20views&color=0e75b6&style=flat" alt="surajsakhare100" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Project**
+- 🔭 I’m currently working on **VIDEO STREAMING PLATFORM**
 
-- 🌱 I’m currently learning **DSA C++**
+- 🌱 I’m currently learning **React Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at https://surajsakhare.netlify.app
+- 👨‍💻 All of my projects are available at My Portfolio website -- https://surajsakhare.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
