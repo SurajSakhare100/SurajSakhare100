@@ -1,12 +1,12 @@
 # 🌟 Suraj Sakhare
-**Full-Stack Developer • React • Next.js • Node.js**
+**Full-Stack Developer • Mern Stack • Next.js • Flutter**
 
 ![Header](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 ## 🚀 About Me
 I build fast, scalable full-stack applications and enjoy turning ideas into polished products.
 
-- 🔭 Currently working on: **ReadSpark & a Real-Time Collaboration Tool**
+- 🔭 Currently working on: **Real-Time Collaboration Tool**
 - 🌱 Exploring: **Cloud, DevOps & Real-Time Tools**
 - 👨‍💻 Portfolio: [https://www.surajx.in](https://www.surajx.in)  
 - 📝 Blogs: [https://medium.com/@sakharesuraj10](https://medium.com/@sakharesuraj10)  
