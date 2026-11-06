@@ -45,46 +45,34 @@ An AI-powered answer engine combining retrieval-augmented generation with multi-
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" />
-</p>
+### AI Engineering & LLMs
+![AI](https://skillicons.dev/icons?i=python)
+![AI](https://skillicons.dev/icons?i=LangChain)
+`RAG` `LLM Orchestration` `AI Agents` `Prompt Engineering` `LangChain` `LangGraph` `LangSmith` `Vector Search` `MCP` `Groq`
 
-### 🎨 Frontend & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css&theme=dark" />
-</p>
+### Frontend & Mobile
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css)
+`React Native` `Expo` `TypeScript`
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-</p>
+### Backend & APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)
+`REST APIs` `WebSockets` `JWT` `OAuth` `ASGI` `SSE`
 
-### 🤖 AI Engineering & LLMs
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-0D9488?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_Search-2563EB?style=for-the-badge" />
-</p>
+### Databases & Infrastructure
+![Infrastructure](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,docker,aws,linux,nginx,vercel)
+`GitHub Actions` `Firebase` `Supabase`
 
-### 🗄️ Databases & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,prisma&theme=dark" />
-</p>
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java)
+`SQL`
 
-### ☁️ Cloud, DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,vercel,git,github,githubactions,postman,figma,vscode&theme=dark" />
-</p>
+### Developer Tools
+![Tools](https://skillicons.dev/icons?i=git,github,postman,figma,vscode)
 
 ---
+ fix this i want icon or better way to showcase in this form add link there
 ## 🌍 Open Source & Experience
 
 **Software Engineering Intern — FRICK**  
